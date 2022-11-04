@@ -3,27 +3,32 @@
         {
             "id": "4223065",
             "name": "2021 STEAM Application",
-            "sunsetZulu": "2021-08-27T08:49:37.623Z"
+            "sunsetZulu": "2021-08-27T08:49:37.623Z",
+            "notes": []
         },
         {
             "id": "4456042",
             "name": "2022 CV STEAM Summer Registration",
-            "sunsetZulu": "2099-12-31T23:59:59.599Z"
+            "sunsetZulu": "2099-12-31T23:59:59.599Z",
+            "notes": []
         },
         {
             "id": "4708978",
             "name": "2022 Richmond Summer Registration",
-            "sunsetZulu": "2099-12-31T23:59:59.599Z"
+            "sunsetZulu": "2099-12-31T23:59:59.599Z",
+            "notes": []
         },
         {
             "id": "4711823",
             "name": "22 ROA STEAM Summer Registration",
-            "sunsetZulu": "2099-12-31T23:59:59.599Z"
+            "sunsetZulu": "2099-12-31T23:59:59.599Z",
+            "notes": []
         },
         {
             "id": "5010378",
             "name": "STEAM Registration Test Form 10172022",
-            "sunsetZulu": "2099-12-31T23:59:59.599Z"
+            "sunsetZulu": "2099-12-31T23:59:59.599Z",
+            "notes": []
         }
     ],
     "notes": [
