@@ -1,0 +1,18 @@
+{
+    "registration": [
+        {
+            "id": 4223065,
+            "name": "2021 STEAM Application",
+            "sunsetZulu": "1999-12-31T23:59:59.599Z"
+        },
+        {
+            "id": 4456042,
+            "name": "2022 CV STEAM Summer Registration",
+            "sunsetZulu": "2099-12-31T23:59:59.599Z"
+        }
+    ],
+    "notes": [
+        "all new ACTIVE entries should use the New Years Eve 2099 Sunset",
+        "all new PENDING entries should use New Year's Eve 1999 Sunset"
+    ]
+}
