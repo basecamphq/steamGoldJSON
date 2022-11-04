@@ -3,16 +3,25 @@
         {
             "id": 4223065,
             "name": "2021 STEAM Application",
-            "sunsetZulu": "1999-12-31T23:59:59.599Z"
+            "sunsetZulu": "2021-08-27T08:49:37.623Z"
         },
         {
             "id": 4456042,
             "name": "2022 CV STEAM Summer Registration",
             "sunsetZulu": "2099-12-31T23:59:59.599Z"
+        },
+        {
+            "id": "5010378",
+            "name": "STEAM Registration Test Form 10172022",
+            "sunsetZulu": "2099-12-31T23:59:59.599Z"
         }
     ],
     "notes": [
         "all new ACTIVE entries should use the New Years Eve 2099 Sunset",
-        "all new PENDING entries should use New Year's Eve 1999 Sunset"
+        "all new PENDING entries should use New Year's Eve 1999 Sunset",
+        "'sunsetZulu' means the ISO Date-Time String without any TimeZone offset, commonly called 'Zulu Time'",
+        "_DO_ use actual SunSet Zulu Stamps when deactivating a Form",
+        "you _CAN_ future-date the SunSet, but you had better be _CERTAIN_, otherwise use New Years Eve 2099",
+        "_DO_ use just before Midnight (...T23:59:59.599Z) if you future-date the SunSet, unless it needs to be more precise(¿why?)"
     ]
 }
