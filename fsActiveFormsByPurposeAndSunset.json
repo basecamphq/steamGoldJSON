@@ -1,13 +1,23 @@
 {
     "registration": [
         {
-            "id": 4223065,
+            "id": "4223065",
             "name": "2021 STEAM Application",
             "sunsetZulu": "2021-08-27T08:49:37.623Z"
         },
         {
-            "id": 4456042,
+            "id": "4456042",
             "name": "2022 CV STEAM Summer Registration",
+            "sunsetZulu": "2099-12-31T23:59:59.599Z"
+        },
+        {
+            "id": "4708978",
+            "name": "2022 Richmond Summer Registration",
+            "sunsetZulu": "2099-12-31T23:59:59.599Z"
+        },
+        {
+            "id": "4711823",
+            "name": "22 ROA STEAM Summer Registration",
             "sunsetZulu": "2099-12-31T23:59:59.599Z"
         },
         {
@@ -22,6 +32,7 @@
         "'sunsetZulu' means the ISO Date-Time String without any TimeZone offset, commonly called 'Zulu Time'",
         "_DO_ use actual SunSet Zulu Stamps when deactivating a Form",
         "you _CAN_ future-date the SunSet, but you had better be _CERTAIN_, otherwise use New Years Eve 2099",
-        "_DO_ use just before Midnight (...T23:59:59.599Z) if you future-date the SunSet, unless it needs to be more precise(¿why?)"
+        "_DO_ use just before Midnight (...T23:59:59.599Z) if you future-date the SunSet, unless it needs to be more precise(¿why?)",
+        "making 'id' a String is following how it is returned by FormStack API, but code will use either/both"
     ]
 }
