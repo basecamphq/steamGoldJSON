@@ -33,6 +33,7 @@
         "_DO_ use actual SunSet Zulu Stamps when deactivating a Form",
         "you _CAN_ future-date the SunSet, but you had better be _CERTAIN_, otherwise use New Years Eve 2099",
         "_DO_ use just before Midnight (...T23:59:59.599Z) if you future-date the SunSet, unless it needs to be more precise(¿why?)",
-        "making 'id' a String is following how it is returned by FormStack API, but code will use either/both"
+        "making 'id' a String is following how it is returned by FormStack API, but code will use either/both",
+        "of course, we can cull sun-setted Forms, but NO RUSH, ¿maybe 1 year after sunset?"
     ]
 }
