@@ -1,0 +1,140 @@
+{
+    "CHO": {
+        "CHOa": {
+            "_id": "CHOa",
+            "region": "CHO",
+            "key": "CHOa",
+            "name": "Incubator",
+            "nameFull": "STEAM Incubator",
+            "nameCommon": "Incubator",
+            "nameAbbrv": "Inc",
+            "nameAcronym": "SI",
+            "street_1": "3004 Berkmar Drive",
+            "street_2": "",
+            "city": "Charlottesville",
+            "state": "VA",
+            "zip": "22901",
+            "zipPlus": "",
+            "latitude": 38.081460,
+            "longitude": -78.477980,
+            "notes": [
+                "COMPLETE",
+                "[O] Additional Checks"
+            ]
+        },
+        "CHOb": {
+            "_id": "CHOb",
+            "region": "CHO",
+            "key": "CHOb",
+            "name": "CCS",
+            "nameFull": "Charlottesville Catholic School",
+            "nameCommon": "Cville Catholic",
+            "nameAbbrv": "holder",
+            "nameAcronym": "CCS",
+            "street_1": "1205 Pen Park Rd",
+            "street_2": "",
+            "city": "Charlottesville",
+            "state": "VA",
+            "zip": "22901",
+            "zipPlus": "",
+            "latitude": 38.054380,
+            "longitude": -78.459130,
+            "notes": [
+                "COMPLETE",
+                "[O] Additional Checks"
+            ]
+        }
+    },
+    "ROA": {
+        "ROAa": {
+            "_id": "ROAa",
+            "region": "ROA",
+            "key": "ROAa",
+            "name": "St. John's",
+            "nameFull": "St. John Neumann Academy",
+            "nameCommon": "St. John's",
+            "nameAbbrv": "Inc",
+            "nameAcronym": "SJNA",
+            "street_1": "3600 Yellow Sulphur Rd",
+            "street_2": "",
+            "city": "Blacksburg",
+            "state": "VA",
+            "zip": "24060",
+            "zipPlus": "",
+            "latitude": 37.187860,
+            "longitude": -80.403350,
+            "notes": [
+                "COMPLETE",
+                "[O] Additional Checks"
+            ]
+        },
+        "ROAb": {
+            "_id": "ROAb",
+            "region": "ROA",
+            "key": "ROAb",
+            "name": "New School",
+            "nameFull": "Blacksburg New School",
+            "nameCommon": "New School",
+            "nameAbbrv": "New School",
+            "nameAcronym": "BNS",
+            "street_1": "2500 N Main St",
+            "street_2": "",
+            "city": "Blacksburg",
+            "state": "VA",
+            "zip": "24060",
+            "zipPlus": "",
+            "latitude": 37.267880,
+            "longitude": -80.415760,
+            "notes": [
+                "COMPLETE",
+                "[O] Additional Checks"
+            ]
+        }
+    },
+    "RIC": {
+        "RICa": {
+            "_id": "RICa",
+            "region": "RIC",
+            "key": "RICa",
+            "name": "All Saints",
+            "nameFull": "All Saints Catholic School",
+            "nameCommon": "All Saints",
+            "nameAbbrv": "All Saints",
+            "nameAcronym": "ASCS",
+            "street_1": "3418 Noble Ave",
+            "street_2": "",
+            "city": "Richmond",
+            "state": "VA",
+            "zip": "23222",
+            "zipPlus": "",
+            "latitude": 37.580730,
+            "longitude": -77.443180,
+            "notes": [
+                "COMPLETE",
+                "[O] Additional Checks"
+            ]
+        },
+        "RICb": {
+            "_id": "RICb",
+            "region": "RIC",
+            "key": "RICb",
+            "name": "Patrick Henry",
+            "nameFull": "Patrick Henry School of Science & Arts",
+            "nameCommon": "Patrick Henry",
+            "nameAbbrv": "Patrick Henry",
+            "nameAcronym": "PHSSA",
+            "street_1": "3411 Semmes Av",
+            "street_2": "",
+            "city": "Richmond",
+            "state": "VA",
+            "zip": "23225",
+            "zipPlus": "",
+            "latitude": 37.5162481,
+            "longitude": -77.4698202,
+            "notes": [
+                "PENDING",
+                "[O] Additional Checks"
+            ]
+        }
+    }
+}
