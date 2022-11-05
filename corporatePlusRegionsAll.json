@@ -1,0 +1,501 @@
+{
+    "name": "Steam Discovery Academy",
+    "altNames": {
+        "abbrv": "SteamDA"
+    },
+    "domains": [
+        "steamda.com",
+        "steamdiscoveryacademy.com"
+    ],
+    "corporate": {
+        "name": "Corporate",
+        "key": "STMDA",
+        "addresses": [
+            {
+                "Address": "100 10th Street, NE ",
+                "Address2": "Suite 300",
+                "city": "Charlottesville",
+                "state": "VA",
+                "Zip": "22902",
+                "formatted": "100 10th Street, NE Suite 300, Charlottesville, VA 22902"
+            }
+        ],
+        "phones": [
+            {
+                "number": "434-987-3918",
+                "technology": "land",
+                "kind": "main",
+                "label": "Main"
+            },
+            {
+                "number": "434-242-9339",
+                "technology": "mobile",
+                "kind": "work",
+                "label": "Lisel"
+            },
+            {
+                "number": "303-713-9500",
+                "technology": "cell",
+                "kind": "work",
+                "label": "Mike"
+            }
+        ],
+        "timezone": {
+            "name:": "Eastern Time",
+            "abbrv": "ET",
+            "furthestOffset": -5,
+            "afterArray": [
+                [
+                    "2021-03-14T02:00:00",
+                    "EDT"
+                ],
+                [
+                    "2021-11-07T02:00:00",
+                    "EST"
+                ],
+                [
+                    "2022-03-13T02:00:00",
+                    "EDT"
+                ],
+                [
+                    "2022-11-07T02:00:00",
+                    "EST"
+                ],
+                [
+                    "2023-03-12T02:00:00",
+                    "EDT"
+                ],
+                [
+                    "2023-11-05T02:00:00",
+                    "EST"
+                ],
+                [
+                    "2024-03-10T02:00:00",
+                    "EDT"
+                ],
+                [
+                    "2024-11-03T02:00:00",
+                    "EST"
+                ],
+                [
+                    "2025-03-09T02:00:00",
+                    "EDT"
+                ],
+                [
+                    "2025-11-02T02:00:00",
+                    "EST"
+                ],
+                [
+                    "2026-03-08T02:00:00",
+                    "EDT"
+                ],
+                [
+                    "2026-11-01T02:00:00",
+                    "EST"
+                ]
+            ],
+            "EST": {
+                "name": "Eastern Standard Time",
+                "kind": "Standard",
+                "abbrv": "EST",
+                "offset": -5
+            },
+            "EDT": {
+                "name": "Eastern Daylight Time",
+                "kind": "Daylight",
+                "abbrv": "EDT",
+                "offset": -4
+            }
+        },
+        "notes": [
+            "[brad lowry] made Corporate same as CHO Region, but that may change",
+            "maybe skip key"
+        ]
+    },
+    "regions": [
+        {
+            "name": "Charlottesville",
+            "key": "CHO",
+            "altCities": [
+                "Charlottesville"
+            ],
+            "addresses": [
+                {
+                    "Address": "100 10th Street, NE ",
+                    "Address2": "Suite 300",
+                    "city": "Charlottesville",
+                    "state": "VA",
+                    "Zip": "22902",
+                    "formatted": "100 10th Street, NE Suite 300, Charlottesville, VA 22902"
+                }
+            ],
+            "phones": [
+                {
+                    "number": "434-987-3918",
+                    "technology": "land",
+                    "kind": "main",
+                    "label": "Main"
+                }
+            ],
+            "zipcodes": {
+                "threeDigit": {
+                    "exclusive": [
+                        "201",
+                        "220",
+                        "221",
+                        "222",
+                        "223",
+                        "224",
+                        "225",
+                        "226",
+                        "227",
+                        "228",
+                        "229",
+                        "230",
+                        "231",
+                        "232",
+                        "233",
+                        "234",
+                        "235",
+                        "236",
+                        "237",
+                        "238",
+                        "239",
+                        "240",
+                        "241",
+                        "242",
+                        "243",
+                        "244",
+                        "245",
+                        "246",
+                        "247",
+                        "248",
+                        "249",
+                        "250",
+                        "251",
+                        "252",
+                        "253",
+                        "254",
+                        "255",
+                        "256",
+                        "257",
+                        "258",
+                        "259",
+                        "260",
+                        "261",
+                        "262",
+                        "263",
+                        "264",
+                        "265",
+                        "266",
+                        "267",
+                        "268"
+                    ],
+                    "overlap": []
+                },
+                "fiveDigit": {
+                    "exclusive": [],
+                    "overlap": []
+                },
+                "notes": [
+                    "for 3 digit overlap where within that there is no overlap for some 5 digits within, use 5 digit arrays",
+                    "...thus there should be very few overlap 5 digit zip codes"
+                ]
+            },
+            "timezone": {
+                "name:": "Eastern Time",
+                "abbrv": "ET",
+                "furthestOffset": -5,
+                "afterArray": [
+                    [
+                        "2021-03-14T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2021-11-07T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2022-03-13T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2022-11-07T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2023-03-12T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2023-11-05T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2024-03-10T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2024-11-03T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2025-03-09T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2025-11-02T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2026-03-08T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2026-11-01T02:00:00",
+                        "EST"
+                    ]
+                ],
+                "EST": {
+                    "name": "Eastern Standard Time",
+                    "kind": "Standard",
+                    "abbrv": "EST",
+                    "offset": -5
+                },
+                "EDT": {
+                    "name": "Eastern Daylight Time",
+                    "kind": "Daylight",
+                    "abbrv": "EDT",
+                    "offset": -4
+                }
+            },
+            "notes": []
+        },
+        {
+            "name": "Richmond",
+            "key": "RIC",
+            "altCities": [
+                "Richmond"
+            ],
+            "addresses": [
+                {
+                    "Address": "100 10th Street, NE ",
+                    "Address2": "Suite 300",
+                    "city": "Charlottesville",
+                    "state": "VA",
+                    "Zip": "22902",
+                    "formatted": "100 10th Street, NE Suite 300, Charlottesville, VA 22902"
+                }
+            ],
+            "phones": [
+                {
+                    "number": "434-987-3918",
+                    "technology": "land",
+                    "kind": "main",
+                    "label": "Main"
+                }
+            ],
+            "zipcodes": {
+                "threeDigit": {
+                    "exclusive": [],
+                    "overlap": []
+                },
+                "fiveDigit": {
+                    "exclusive": [],
+                    "overlap": []
+                },
+                "notes": [
+                    "new zips",
+                    "¿new address?",
+                    "¿additional phones?",
+                    "¿same main?"
+                ]
+            },
+            "timezone": {
+                "name:": "Eastern Time",
+                "abbrv": "ET",
+                "furthestOffset": -5,
+                "afterArray": [
+                    [
+                        "2021-03-14T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2021-11-07T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2022-03-13T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2022-11-07T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2023-03-12T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2023-11-05T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2024-03-10T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2024-11-03T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2025-03-09T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2025-11-02T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2026-03-08T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2026-11-01T02:00:00",
+                        "EST"
+                    ]
+                ],
+                "EST": {
+                    "name": "Eastern Standard Time",
+                    "kind": "Standard",
+                    "abbrv": "EST",
+                    "offset": -5
+                },
+                "EDT": {
+                    "name": "Eastern Daylight Time",
+                    "kind": "Daylight",
+                    "abbrv": "EDT",
+                    "offset": -4
+                }
+            },
+            "notes": []
+        },
+        {
+            "name": "Roanoke",
+            "key": "ROA",
+            "altCities": [
+                "Roanoke",
+                "Blacksburg"
+            ],
+            "addresses": [
+                {
+                    "Address": "100 10th Street, NE ",
+                    "Address2": "Suite 300",
+                    "city": "Charlottesville",
+                    "state": "VA",
+                    "Zip": "22902",
+                    "formatted": "100 10th Street, NE Suite 300, Charlottesville, VA 22902"
+                }
+            ],
+            "phones": [
+                {
+                    "number": "434-987-3918",
+                    "technology": "land",
+                    "kind": "main",
+                    "label": "Main"
+                }
+            ],
+            "zipcodes": {
+                "threeDigit": {
+                    "exclusive": [],
+                    "overlap": []
+                },
+                "fiveDigit": {
+                    "exclusive": [],
+                    "overlap": []
+                },
+                "notes": [
+                    "for 3 digit overlap where within that there is no overlap for some 5 digits within, use 5 digit arrays",
+                    "...thus there should be very few overlap 5 digit zip codes"
+                ]
+            },
+            "timezone": {
+                "name:": "Eastern Time",
+                "abbrv": "ET",
+                "furthestOffset": -5,
+                "afterArray": [
+                    [
+                        "2021-03-14T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2021-11-07T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2022-03-13T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2022-11-07T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2023-03-12T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2023-11-05T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2024-03-10T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2024-11-03T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2025-03-09T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2025-11-02T02:00:00",
+                        "EST"
+                    ],
+                    [
+                        "2026-03-08T02:00:00",
+                        "EDT"
+                    ],
+                    [
+                        "2026-11-01T02:00:00",
+                        "EST"
+                    ]
+                ],
+                "EST": {
+                    "name": "Eastern Standard Time",
+                    "kind": "Standard",
+                    "abbrv": "EST",
+                    "offset": -5
+                },
+                "EDT": {
+                    "name": "Eastern Daylight Time",
+                    "kind": "Daylight",
+                    "abbrv": "EDT",
+                    "offset": -4
+                }
+            },
+            "notes": [
+                "new zips",
+                "¿new address?",
+                "¿additional phones?",
+                "¿same main?")
+            ]
+        }
+    ],
+    "notes": [
+        "altCities: at discretion, but major cities nearby, not every suburb",
+        "or course altCities may _become_ their own regions outright so keep watch"
+    ]
+}
