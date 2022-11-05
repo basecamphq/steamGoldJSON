@@ -1,0 +1,47 @@
+{
+	"corporatePlusRegionsAll.json": {
+		"name": "corporatePlusRegionsAll",
+		"humanDescr": "",
+		"humanNotes": [],
+		"processSteps": [],
+		"develDescr": "",
+		"develNotes": [],
+		"notes": []
+	},
+	"fsActiveFormsByPurposeAndSunset.json": {
+		"name": "fsActiveFormsByPurposeAndSunset",
+		"humanDescr": "",
+		"humanNotes": [],
+		"processSteps": [],
+		"develDescr": "",
+		"develNotes": [],
+		"notes": []
+	},
+	"gradeLevelsAll.json": {
+		"name": "gradeLevelsAll",
+		"humanDescr": "",
+		"humanNotes": [],
+		"processSteps": [],
+		"develDescr": "",
+		"develNotes": [],
+		"notes": []
+	},
+	"locationsAll.json": {
+		"name": "locationsAll",
+		"humanDescr": "",
+		"humanNotes": [],
+		"processSteps": [],
+		"develDescr": "",
+		"develNotes": [],
+		"notes": []
+	},
+	"weeksAll.json": {
+		"name": "weeksAll",
+		"humanDescr": "",
+		"humanNotes": [],
+		"processSteps": [],
+		"develDescr": "",
+		"develNotes": [],
+		"notes": []
+	}
+}
