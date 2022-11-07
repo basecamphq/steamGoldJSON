@@ -4,36 +4,63 @@
             "id": "4223065",
             "name": "2021 STEAM Application",
             "sunsetZulu": "2021-08-27T08:49:37.623Z",
+            "submissionIdSpelvin": 77777,
+            "altDevelSumissionIdArray": [
+                11111,
+                22222,
+                33333
+            ],
             "notes": []
         },
         {
             "id": "4456042",
             "name": "2022 CV STEAM Summer Registration",
             "sunsetZulu": "2099-12-31T23:59:59.599Z",
+            "submissionIdSpelvin": 976313693,
+            "altDevelSumissionIdArray": [],
             "notes": []
         },
         {
             "id": "4708978",
             "name": "2022 Richmond Summer Registration",
             "sunsetZulu": "1999-12-31T23:59:59.599Z",
+            "submissionIdSpelvin": 77777,
+            "altDevelSumissionIdArray": [
+                11111,
+                22222,
+                33333
+            ],
             "notes": []
         },
         {
             "id": "4711823",
             "name": "22 ROA STEAM Summer Regis5ration",
             "sunsetZulu": "1999-12-31T23:59:59.599Z",
+            "submissionIdSpelvin": 77777,
+            "altDevelSumissionIdArray": [
+                11111,
+                22222,
+                33333
+            ],
             "notes": []
         },
         {
             "id": "5010378",
             "name": "STEAM Registration Test Form 10172022",
             "sunsetZulu": "1999-12-31T23:59:59.599Z",
+            "submissionIdSpelvin": 77777,
+            "altDevelSumissionIdArray": [
+                11111,
+                22222,
+                33333
+            ],
             "notes": []
         }
     ],
     "notes": [
         "filename: fsActiveFormsByPurposeAndSunset.json",
         "BTL DEP Path: /Users/brad/Documents/bradProfessional/steam/gitHubReposDEP/steamGoldJSON/.assets/fsActiveFormsByPurposeAndSunset.json",
+        "Spelvin and altDevelSubmissionIdArray should all be _actual_ if made Active",
         "all new ACTIVE entries should use the New Years Eve 2099 Sunset",
         "all new PENDING entries should use New Year's Eve 1999 Sunset",
         "'sunsetZulu' means the ISO Date-Time String without any TimeZone offset, commonly called 'Zulu Time'",
